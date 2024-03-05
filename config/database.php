@@ -3,7 +3,7 @@ class Database {
     private $servername = "localhost";
     private $username = "root";
     private $password = "";
-    private $database = "dovodung";
+    private $database = "dvd_household";
     private $conn;
 
     public function __construct() {
